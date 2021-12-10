@@ -1,10 +1,7 @@
 other guy code
 initial line 1
 initial line 2
-<<<<<<< .merge_file_a25284
 initial iine 3
 line from guy 2
-=======
 line from guy 1
 initial iine 3
->>>>>>> .merge_file_a14588
